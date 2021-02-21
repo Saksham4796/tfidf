@@ -1,0 +1,9 @@
+Program Name,batch_size,iterations,total_no_of_lines_examined
+tcas,500,200,1170
+totinfo,50,1000,561
+schedule,200,500,104
+schedule2,100,200,451
+printtokens,150,100,106
+printtokens2,500,500,79
+replace,200,1000,2078
+,,,4549
